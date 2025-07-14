@@ -10,7 +10,7 @@
 
 ### Frontend
 
-  - NextJS
+  - React
   - Typescript
   - axios
   - sass
@@ -21,7 +21,7 @@
   - Node/express
   - Typescript
   - PSQL
-  - Prisma
+  - TypeORM
   - Redis
 ### Schema validation
 
